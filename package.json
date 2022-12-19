@@ -1,0 +1,10 @@
+{
+  "name": "adobe-connect-downloader",
+  "version": "0.0.1",
+  "description": " Download and glue every peace of adobe connect meeting from to generate a solid video of meeting. ",
+  "main": "lib/index.js",
+  "repository": "https://github.com/me-dira/adobe-connect-downloader",
+  "author": "me-dira <mediraworkm@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
