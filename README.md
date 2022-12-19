@@ -1,13 +1,4 @@
-# Wordpress NodeJs data scrapper.
-
-Extract data as configured format from Wordpress built websites.
-
-## Goals
-
-- Configuration implementation.
-- Very easy api structure.
-- Parse website xml data.
-- Export data as json.
+# Adobe connect downloader.
 
 ## Import logic for developers
 
@@ -27,26 +18,5 @@ For simplicity and increasing code readability i use this logic to imports and d
 import {***} from '@pointer/{type}/{name}';
 
 # Import example:
-import {WpInfo} from '@interface/abstract/WpInfo';
-```
-
-# How to use:
-
-First of all you need to install package using:
-
-```
-# install using wp-scrapper
-yarn add wp-scrapper
-
-# install using npm
-npm install wp-scrapper
-```
-
-then import the package into your project like below:
-
-```
-import {WpScrapper} from 'wp-scrapper';
-
-# Options schema not defined yet.
-WpScrapper.read(options);
+import {AnyInterface} from '@interface/abstract/AnyInterface';
 ```
