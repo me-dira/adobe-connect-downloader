@@ -1,0 +1,551 @@
+<!--This is the opening comment-->
+<root>
+    <Signature><![CDATA[FLV]]></Signature>
+    <Version><![CDATA[1]]></Version>
+    <Flag><![CDATA[data]]></Flag>
+    <DataPos><![CDATA[9]]></DataPos>
+    <Message time="0" type="data">
+        <Method><![CDATA[onMetaData]]></Method>
+        <Array>
+            <Number><![CDATA[13382.934000]]></Number>
+            <Number><![CDATA[0]]></Number>
+            <Number><![CDATA[0]]></Number>
+            <String><![CDATA[false]]></String>
+            <String><![CDATA[AMS 5]]></String>
+            <String><![CDATA[Tue Oct 18 12:18:54 2022]]></String>
+        </Array>
+    </Message>
+    <Message time="0" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <String><![CDATA[__start__]]></String>
+        <Number><![CDATA[9.300000]]></Number>
+    </Message>
+    <Message time="0" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[roomLayoutChanged]]></iconType>
+            <label><![CDATA[Sharing]]></label>
+            <name><![CDATA[]]></name>
+            <time><![CDATA[133]]></time>
+        </Object>
+    </Message>
+    <Message time="76541" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[  ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[76546]]></time>
+        </Object>
+    </Message>
+    <Message time="127372" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[      ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[127377]]></time>
+        </Object>
+    </Message>
+    <Message time="192766" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[        ]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[192771]]></time>
+        </Object>
+    </Message>
+    <Message time="242417" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[09130225460 ]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[242422]]></time>
+        </Object>
+    </Message>
+    <Message time="353692" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[353697]]></time>
+        </Object>
+    </Message>
+    <Message time="366678" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[366683]]></time>
+        </Object>
+    </Message>
+    <Message time="377978" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[377983]]></time>
+        </Object>
+    </Message>
+    <Message time="386870" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[         ]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[386875]]></time>
+        </Object>
+    </Message>
+    <Message time="1174426" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[1174431]]></time>
+        </Object>
+    </Message>
+    <Message time="1482769" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[sinh = X  cosh = X]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[1482774]]></time>
+        </Object>
+    </Message>
+    <Message time="1550863" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[tanh(0)=0]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[1550868]]></time>
+        </Object>
+    </Message>
+    <Message time="1563962" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[0]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[1563967]]></time>
+        </Object>
+    </Message>
+    <Message time="1572666" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[1]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[1572671]]></time>
+        </Object>
+    </Message>
+    <Message time="1674890" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[0.5]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[1674895]]></time>
+        </Object>
+    </Message>
+    <Message time="1682627" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[ ]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[1682632]]></time>
+        </Object>
+    </Message>
+    <Message time="1754608" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[   ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[1754613]]></time>
+        </Object>
+    </Message>
+    <Message time="2267472" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[2267477]]></time>
+        </Object>
+    </Message>
+    <Message time="2280696" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[ 1 ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[2280701]]></time>
+        </Object>
+    </Message>
+    <Message time="2528216" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[  ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[2528221]]></time>
+        </Object>
+    </Message>
+    <Message time="2545347" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[2545352]]></time>
+        </Object>
+    </Message>
+    <Message time="2655128" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[    ]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[2655133]]></time>
+        </Object>
+    </Message>
+    <Message time="2718745" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[2718750]]></time>
+        </Object>
+    </Message>
+    <Message time="2738126" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[         ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[2738130]]></time>
+        </Object>
+    </Message>
+    <Message time="2752775" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[   ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[2752780]]></time>
+        </Object>
+    </Message>
+    <Message time="2807597" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[2807601]]></time>
+        </Object>
+    </Message>
+    <Message time="2808374" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[2808379]]></time>
+        </Object>
+    </Message>
+    <Message time="2877838" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[90]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[2877843]]></time>
+        </Object>
+    </Message>
+    <Message time="2882502" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[10]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[2882507]]></time>
+        </Object>
+    </Message>
+    <Message time="2949802" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[2]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[2949807]]></time>
+        </Object>
+    </Message>
+    <Message time="2957100" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[2]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[2957105]]></time>
+        </Object>
+    </Message>
+    <Message time="3087560" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[h   f]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[3087564]]></time>
+        </Object>
+    </Message>
+    <Message time="3432860" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[         ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[3432865]]></time>
+        </Object>
+    </Message>
+    <Message time="3521631" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[3521636]]></time>
+        </Object>
+    </Message>
+    <Message time="3872139" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[ ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[3872144]]></time>
+        </Object>
+    </Message>
+    <Message time="3886453" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[     .       ]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[3886458]]></time>
+        </Object>
+    </Message>
+    <Message time="3891879" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[3891883]]></time>
+        </Object>
+    </Message>
+    <Message time="4302879" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[4302884]]></time>
+        </Object>
+    </Message>
+    <Message time="4306659" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[4306664]]></time>
+        </Object>
+    </Message>
+    <Message time="4510430" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[  ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[4510435]]></time>
+        </Object>
+    </Message>
+    <Message time="6212625" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[6212630]]></time>
+        </Object>
+    </Message>
+    <Message time="6435625" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[6435630]]></time>
+        </Object>
+    </Message>
+    <Message time="8334577" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[ ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[8334582]]></time>
+        </Object>
+    </Message>
+    <Message time="8338731" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[ ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[8338735]]></time>
+        </Object>
+    </Message>
+    <Message time="8571340" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[8571344]]></time>
+        </Object>
+    </Message>
+    <Message time="8574387" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[8574392]]></time>
+        </Object>
+    </Message>
+    <Message time="9148943" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[1]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[9148948]]></time>
+        </Object>
+    </Message>
+    <Message time="9162413" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[-1]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[9162418]]></time>
+        </Object>
+    </Message>
+    <Message time="9976243" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[9976248]]></time>
+        </Object>
+    </Message>
+    <Message time="10556712" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[       ]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[10556716]]></time>
+        </Object>
+    </Message>
+    <Message time="10888204" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[10888209]]></time>
+        </Object>
+    </Message>
+    <Message time="10958540" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[ok]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[10958545]]></time>
+        </Object>
+    </Message>
+    <Message time="11260681" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[  ]]></label>
+            <name><![CDATA[ ]]></name>
+            <time><![CDATA[11260686]]></time>
+        </Object>
+    </Message>
+    <Message time="11277012" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[  ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[11277017]]></time>
+        </Object>
+    </Message>
+    <Message time="11375640" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[      ]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[11375645]]></time>
+        </Object>
+    </Message>
+    <Message time="11431255" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[1111307]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[11431260]]></time>
+        </Object>
+    </Message>
+    <Message time="11476675" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[11476680]]></time>
+        </Object>
+    </Message>
+    <Message time="11496441" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <Object>
+            <iconType><![CDATA[chat]]></iconType>
+            <label><![CDATA[]]></label>
+            <name><![CDATA[   ]]></name>
+            <time><![CDATA[11496446]]></time>
+        </Object>
+    </Message>
+    <Message time="13382934" type="data">
+        <Method><![CDATA[playEvent]]></Method>
+        <String><![CDATA[__stop__]]></String>
+    </Message>
+
+    <!--This is a closing comment-->
+</root>
