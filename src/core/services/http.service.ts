@@ -8,6 +8,5 @@ export class HttpService extends AppService {
     this.getUUID();
   }
 
-  private generateOutputDownloadUrl() {}
-  private getDownloadStream() {}
+  public downloadFile() {}
 }
